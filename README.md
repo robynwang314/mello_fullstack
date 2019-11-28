@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Mello App Full Stack- Trello Clone
 
-Things you may want to cover:
+<img src="screenshot.png" alt="Mello Screenshot">
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link: https://robyn-mello-app.herokuapp.com/
+Git hub: https://github.com/robynwang314/mello_fullstack
