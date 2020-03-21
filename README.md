@@ -27,7 +27,7 @@ This app integrates the following:
 ## Getting Started ##
 This project will require a backend Rails-API and database. 
 
-### Set Up Development###
+### Set Up Development ###
 Change your working directory to <code>mello-rails-api-master</code>.
 
 Create role in the PostgreSQL database for the user vagrant with these commands:
@@ -35,22 +35,21 @@ Create role in the PostgreSQL database for the user vagrant with these commands:
 createuser vagrant -s
 exit</pre>
 
-Then, let’s start the Rails server.
+Then, start the Rails server.
 
 In your development environment, run the <code>bundle install</code> command to install the required dependencies.
-Run <code>bin/rake db:setup</code> to configure the database.
+<br/>Run <code>bin/rake db:setup</code> to configure the database.<br/>
 Run <code>bin/rails s</code> to start the server.
 
 <div id="usage"></div> 
 
 ## Deployment ##
+<img src="screenshot.png" alt="Mello Screenshot" width="45%">
+
 This live project can be view at: https://robyn-mello-app.herokuapp.com/
 
 And it's code can be found at: https://github.com/robynwang314/mello_fullstack
 
-### Screenshots ###
-
-<img src="screenshot.png" alt="Mello Screenshot" width="45%">
 
 <div id="contact"></div> 
 
