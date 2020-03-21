@@ -25,9 +25,21 @@ This app integrates the following:
 <div id="setup"></div> 
 
 ## Getting Started ##
-### Set Up ###
+This project will require a backend Rails-API and database. 
 
+### Set Up Development###
+Change your working directory to <code>mello-rails-api-master</code>.
 
+Create role in the PostgreSQL database for the user vagrant with these commands:
+<pre>sudo su - postgres
+createuser vagrant -s
+exit</pre>
+
+Then, let’s start the Rails server.
+
+In your development environment, run the <code>bundle install</code> command to install the required dependencies.
+Run <code>bin/rake db:setup</code> to configure the database.
+Run <code>bin/rails s</code> to start the server.
 
 <div id="usage"></div> 
 
