@@ -38,7 +38,7 @@ And it's code can be found at: https://github.com/robynwang314/mello_fullstack
 
 ### Screenshots ###
 
-<mg src="screenshot.png" alt="Mello Screenshot" width="45%">
+<img src="screenshot.png" alt="Mello Screenshot" width="45%">
 
 <div id="contact"></div> 
 
