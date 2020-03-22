@@ -14,12 +14,18 @@ Trello Clone with Ruby, jQuery, JavaScript, modals, authentication, and drag and
 <div id="about"></div> 
 
 ## About ##
-
+Mello allows users who log in to create new boards, and lists within these boards. Users can drag, drop, edit, and delete cards across boards. They may also add or remove contributors who have access to viewing and editing the boards. 
 
 <div id="technologies"></div> 
 
 ## Built With ##
 This app integrates the following: 
+<ul>
+  <li>jQuery</li>
+  <li>Rails API</li>
+  <li>FactoryBot</li>
+  <li>RSpec</li>
+</ul>
 
 
 <div id="setup"></div> 
