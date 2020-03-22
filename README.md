@@ -33,7 +33,7 @@ This app integrates the following:
 ## Getting Started ##
 This project will require a backend Rails-API and database. 
 
-### Set Up Development ###
+### Set Up Development Environment###
 Change your working directory to <code>mello-rails-api-master</code>.
 
 Create role in the PostgreSQL database for the user vagrant with these commands:
